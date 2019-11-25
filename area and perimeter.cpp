@@ -16,5 +16,6 @@ int main ()
 	per2=2*(a+b);
 	printf("area of rectangle is %d ",ar2);
 	printf("perimeter of rectangle is %d",per2);
+	printf("over");
 	return 0;
 }
